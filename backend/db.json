@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Celular X",
+      "price": 200.99
+    },
+    {
+      "id": "2",
+      "name": "Celular Y",
+      "price": 250.99
+    },
+    {
+      "id": "3",
+      "name": "Geladeira",
+      "price": 300.99
+    }
+  ]
+}
