@@ -24,6 +24,11 @@
       "name": "Frango",
       "price": "15.50",
       "id": 5
+    },
+    {
+      "name": "refrigerante",
+      "price": "5.00",
+      "id": 6
     }
   ]
 }
