@@ -16,18 +16,13 @@
       "price": 300.99
     },
     {
-      "name": "nome",
-      "price": "20.00",
-      "id": 4
-    },
-    {
       "name": "Frango",
       "price": "15.50",
       "id": 5
     },
     {
-      "name": "refrigerante",
-      "price": "5.00",
+      "name": "novo produto",
+      "price": "10.25",
       "id": 6
     }
   ]
