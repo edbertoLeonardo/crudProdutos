@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Celular X",
-      "price": 200.99
+      "name": "Celular Xab",
+      "price": "600.98"
     },
     {
       "id": 2,
